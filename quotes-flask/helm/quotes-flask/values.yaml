@@ -4,5 +4,5 @@ backend:
 frontend:
   replicas: 2
   service:
-    type: NodePorty
+    type: NodePort
   tag: release
